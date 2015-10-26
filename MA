@@ -1,0 +1,62 @@
+Media Archeology 
+Kaypro 4:
+
+Released in 1984
+Runs CP/M 2.2, a DOS variant
+Price in 1984: $1995, adjusted for inflation: $4,568.82
+Price in 2015: ~$25, easy find on ebay, large community online
+
+The Kaypro 4 was marketed as a "luggable" computer, since the whole device could be carried around like a suitcase. Historically praised for the high contrast screen and the fast 4 Mhz CPU, the Kaypro 4 was also relatively affordable. It came with a built-in modem and a bundle of software attractive to first-time buyers of a computer. When IBM compatible systems began to dominate the market, the Kaypro suffered from a lack of compatible software.
+
+http://www.old-computers.com/MUSEUM/computer.asp?c=548
+
+APPLE 2:
+
+Released in June 1977
+Runs Integer BASIC
+Price in 1977: $1298, adjusted for inflation: $5052
+Price in 2015: $300 to $1500
+
+The Apple II home computer was a success partially due to the extensive I/O functionality of the system. While other home computers had limited capabilities, the Apple II features an integrated keyboard and a praised 280x192 display with color capabilities. The modular system also allowed easy extensions to the hardware. Marketed towards first-time buyers, the Apple II featured low-level documentation geared towards this target group.
+
+http://www.old-computers.com/museum/computer.asp?c=68&st=1
+
+MACINTOSH SE:
+
+Released in March 1987
+Runs MacOS 3.3 - 7.5
+Price in 1987: $3900 with 20mb hard drive, adjusted for inflation: $8,168.89
+Price in 2015: $100 to $1500
+
+The MACINTOSH SE was the first Mactintosh to feature an internal drive bay and extension slots. The GUI and mouse support made the system accessible to users without in-depth knowledge of the OS. For the high price, it only came with a 9" grayscale display and no keyboard. 
+
+VECTREX
+
+Released in 1982
+Vector-based gaming console
+Price in 1982: $199, adjusted for inflation: $470
+Price in 2015: $300 - $1000
+
+The Vectrex was a vector-based gaming console that retailed for a much lower price than contemporary home computers. Vector graphics allowed for simpler hardware, eliminating the need for extensive memory and RAM. As a downside, the vectrex could only display one-color outlines and games came with plastic screens to add some color. However, vector graphics enabled any resolution without aliasing, and so the display of the vectrex received many positive reviews. The market crash of 1983 put an end to the demand for consoles and the Vectrex.
+
+http://videogamecritic.com/vecinfo.htm
+
+Amiga
+
+Released in 1985
+Runs AmigaOS
+Price in 1985: $1595 including monitor, adjusted for inflation: $3,527.16
+Price in 2015: ~$200 to ~$600
+
+The Amiga was a home computer sold by Commodore. The system was successful because of the relatively low price and the available hard and software. Especially the graphic capabilities of the chipset made the Amiga popular for video editing. The Os featured full multitasking using only 256kb, but was vulnerable to unstable software crashing the whole OS. Commodore went out of business in 1994, however Amiga clones are still being produced for a live community.
+
+https://en.wikipedia.org/wiki/Amiga
+
+MACINTOSH IIci
+
+Released in 1989
+Runs MacOS 6.0-7.50
+Price in 1989: $6269, adjusted for inflation: $12,029.65
+Price in 2015: ~$100
+
+The Macintosh IIci was a 32-bit system released in 1989. It featured a 25Mhz CPu together with 640x480 graphics output. The capable hardware and the up to 80Mb of memory made the Macintosh a huge success despite its high price. The added L2 cache contributed to the system’s praised performance. The model was so successful that Apple continued to provide support until 1998. 
